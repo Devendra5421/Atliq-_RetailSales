@@ -1,0 +1,16 @@
+product_code,product_name,category,total_promoted_revenue,baseline_revenue,total_units_sold,lift_ratio,unit_growth
+P14,Atliq_waterproof_Immersion_Rod,"Home Appliances",338221800,46181520,165795,6.3237,NULL
+P13,Atliq_High_Glo_15W_LED_Bulb,"Home Appliances",146647200,20200250,209496,6.2597,0.2636
+P08,Atliq_Double_Bedsheet_set,"Home Care",250866280,35010990,105406,6.1654,NULL
+P07,Atliq_Curtains,"Home Care",68531400,9643200,114219,6.1067,0.0836
+P04,"Atliq_Farm_Chakki_Atta (1KG)","Grocery & Staples",376466860,75962600,569030,3.9560,NULL
+P03,"Atliq_Suflower_Oil (1L)","Grocery & Staples",182204967,39196584,521346,3.6485,-0.0838
+P15,Atliq_Home_Essential_8_Product_Combo,Combo1,1105650000,468279000,442260,1.3611,NULL
+P01,"Atliq_Masoor_Dal (1KG)","Grocery & Staples",30059505,31352160,261387,-0.0412,-0.4986
+P02,"Atliq_Sonamasuri_Rice (10KG)","Grocery & Staples",214643520,224431620,372645,-0.0436,0.4256
+P11,"Atliq_Doodh_Kesar_Body_Lotion (200ML)","Personal Care",4669630,6991810,49154,-0.3321,NULL
+P12,"Atliq_Lime_Cool_Bathing_Bar (125GM)","Personal Care",2230760,3349612,71960,-0.3340,0.4640
+P10,"Atliq_Cream_Beauty_Bathing_Soap (125GM)","Personal Care",1818047,2755375,53879,-0.3402,-0.2513
+P05,Atliq_Scrub_Sponge_For_Dishwash,"Home Care",1430695,2218370,34895,-0.3551,-0.6945
+P06,Atliq_Fusion_Container_Set_of_3,"Home Care",9735544,15126335,31304,-0.3564,-0.1029
+P09,"Atliq_Body_Milk_Nourishing_Lotion (120ML)","Personal Care",2703351,4208890,45535,-0.3577,-0.1549
