@@ -1,0 +1,10 @@
+category,promo_type,correlation
+"Grocery & Staples","33% OFF",-0.243
+"Grocery & Staples","25% OFF",-0.856
+"Home Care","25% OFF",-0.962
+"Home Care",BOGOF,0.962
+"Personal Care","50% OFF",-0.794
+"Home Appliances",BOGOF,0.972
+Combo1,"500 Cashback",0.996
+"Grocery & Staples",BOGOF,0.953
+"Personal Care","25% OFF",-0.935
